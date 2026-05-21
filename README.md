@@ -1,6 +1,6 @@
-# 🐧 Learning Linux
+# 🐧 Learning OS
 
-A personal notebook documenting my journey learning Linux fundamentals hands-on notes, commands, and "aha" moments from real labs.
+A personal notebook documenting my journey learning Operating system fundamentals hands-on notes, commands, and "aha" moments from real labs.
 
 ---
 
@@ -18,7 +18,7 @@ learning_OS/
 
 ## 🎯 Goal
 
-Work through the TryHackMe Linux Fundamentals path and document everything I learn along the way commands, concepts, and anything that trips me up.
+Work through the TryHackMe OS Fundamentals path and document everything I learn along the way commands, concepts, and anything that trips me up.
 
 ---
 
