@@ -7,11 +7,9 @@ A personal notebook documenting my journey learning Linux fundamentals hands-on 
 ## 📁 Repository Structure
 
 ```
-learning_linux/
-├── linux_fundamentals.md   # Notes from TryHackMe: Linux Fundamentals Part 1
-├── linux_fundamentals2.md  # Notes from TryHackMe: Linux Fundamentals Part 2
-├── linux_fundamentals3-1.md  # Notes from TryHackMe: Linux Fundamentals Part 3
-├── linux_fundamentals3-2.md  # Notes from TryHackMe: Linux Fundamentals Part 3
+learning_OS/
+├── linux_fundamentals/ # 4 part of Linux fundamentals 
+
 
 
 ```
@@ -35,10 +33,10 @@ Work through the TryHackMe Linux Fundamentals path and document everything I lea
 
 | Room | Path | Status |
 |---|---|---|
-| [ linux_fundamentals.md](./linux_fundamentals.md) | Pre-Security | ✅ Done |
-| [linux_fundamentals2.md](./linux_fundamentals2.md) | Pre-Security | ✅ Done |
-| [linux_fundamentals3-1.md](./linux_fundamentals3-1.md) | Pre-Security | ✅ Done |
-| [linux_fundamentals3-2.md](./linux_fundamentals3-2.md) | Pre-Security | ✅ Done |
+| [ linux_fundamentals1](linux_fundamentals/part1.md) | Pre-Security | ✅ Done |
+| [linux_fundamentals2](linux_fundamentals/part2.md) | Pre-Security | ✅ Done |
+| [linux_fundamentals3](linux_fundamentals/part3.md) | Pre-Security | ✅ Done |
+| [linux_fundamentals4](linux_fundamentals/part4.md) | Pre-Security | ✅ Done |
 
 ---
 
