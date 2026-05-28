@@ -8,7 +8,10 @@ A personal notebook documenting my journey learning Operating system fundamental
 
 ```
 learning_OS/
-├── linux_fundamentals/ # 4 part of Linux fundamentals 
+├── linux_fundamentals/ # 4 part of Linux fundamentals
+├── windows_fundamentals/ # 4 part of Windows fundamentals
+
+
 
 
 
@@ -37,6 +40,7 @@ Work through the TryHackMe OS Fundamentals path and document everything I learn 
 | [linux_fundamentals2](linux_fundamentals/part2.md) | Pre-Security | ✅ Done |
 | [linux_fundamentals3](linux_fundamentals/part3.md) | Pre-Security | ✅ Done |
 | [linux_fundamentals4](linux_fundamentals/part4.md) | Pre-Security | ✅ Done |
+| [windows_fundamentals1](windows_fundamentals/part1.md) | Cybersecurity 101 | ✅ Done |
 
 ---
 
